@@ -1,0 +1,17 @@
+body{
+	background-color: #aeaeae;
+}
+
+h1{
+	text-align: center;
+	color: #000;
+}
+
+.intro{
+	color: green;
+}
+
+.underline{
+	font-weight: bolder;
+	text-decoration: underline;
+}
